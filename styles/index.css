@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "ROG Fonts";
+  src: url("../public/fonts/ROGFontsv1.6-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}

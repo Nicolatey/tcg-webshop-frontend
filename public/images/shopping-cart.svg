@@ -1,0 +1,12 @@
+<svg id="shopping-cart" xmlns="http://www.w3.org/2000/svg" width="80" height="72" viewBox="0 0 80 72">
+  <g id="Ellipse_1" fill="#fff" stroke="#6e4b0e" stroke-width="1">
+    <ellipse cx="40" cy="36" rx="40" ry="36" stroke="none"/>
+    <ellipse cx="40" cy="36" rx="39.5" ry="35.5" fill="none"/>
+  </g>
+  <g id="shopping-cart-outline-svgrepo-com" transform="translate(16.365 20.538)">
+    <g id="Group_1">
+      <path id="Path_1" d="M10.8,100.58,5.64,80.393H0V77.22H8.1L9.32,81.979l32.811-.023L38.643,100.58H10.8ZM10.13,85.151l3.13,12.256H36.009l2.3-12.276Z" transform="translate(0 -77.22)" fill="#6e4b0e"/>
+      <path id="Path_2" d="M65.047,618.3a5.074,5.074,0,1,1,0-10.149H84.166a5.075,5.075,0,1,1-4.7,3.173H69.752a5.074,5.074,0,0,1-4.7,6.976Zm17.217-5.074a1.9,1.9,0,1,0,1.9-1.9A1.9,1.9,0,0,0,82.264,613.229Zm-19.118,0a1.9,1.9,0,1,0,1.9-1.9A1.9,1.9,0,0,0,63.146,613.229Z" transform="translate(-49.908 -583.379)" fill="#6e4b0e"/>
+    </g>
+  </g>
+</svg>
